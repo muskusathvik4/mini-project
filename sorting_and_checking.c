@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+#include<time.h>
 void arrange(int number_of_students)
 {
     struct student *a;
